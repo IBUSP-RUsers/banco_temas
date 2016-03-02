@@ -1,7 +1,7 @@
 # Temas
 
 - git - Ogro - 15/04/2016
-- Formatação de dados (long vs. wide) e preparação de dados para o ggpltot2 - Vitor
+- Formatação de dados (long vs. wide) e preparação de dados para o ggplot2 - Vitor
 - ggplot - Ari
 - boas praticas de programação - ?
 - Rmarkdown - Pato
