@@ -7,7 +7,7 @@
 - Rmarkdown - Pato
 - Por que estruturar código e dados em pacotes
 - [dplyr e databases](https://cran.r-project.org/web/packages/dplyr/vignettes/databases.html)?
-- ?
+- [Shiny](http://shiny.rstudio.com/)
 - ?
 
 #Sessão de programação em grupo
