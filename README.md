@@ -1,6 +1,6 @@
 # Temas para reunião expositiva
 
-- ~~git - Ogro - 15/04/2016~~
+- ~~git - Ogro - 15/04/2016~~ [Slides](http://ibusp-rusers.github.io/git-tutorial/)
 - Formatação de dados (long vs. wide) e preparação de dados para o ggplot2 - Vitor
 - ggplot - Ari
 - boas praticas de programação - ?
